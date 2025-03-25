@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\bin\Debug\net7.0\FinishProject.Core.deps.json
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\bin\Debug\net7.0\FinishProject.Core.dll
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\bin\Debug\net7.0\FinishProject.Core.pdb
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\FinishProject.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\FinishProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\FinishProject.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\FinishProject.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\FinishProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\FinishProject.Core.dll
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\refint\FinishProject.Core.dll
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\FinishProject.Core.pdb
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Core\obj\Debug\net7.0\ref\FinishProject.Core.dll

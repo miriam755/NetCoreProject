@@ -1,0 +1,17 @@
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\bin\Debug\net7.0\FinishProject.Data.deps.json
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\bin\Debug\net7.0\FinishProject.Data.runtimeconfig.json
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\bin\Debug\net7.0\FinishProject.Data.dll
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\bin\Debug\net7.0\FinishProject.Data.pdb
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\bin\Debug\net7.0\FinishProject.Core.dll
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\bin\Debug\net7.0\FinishProject.Core.pdb
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.dll
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\refint\FinishProject.Data.dll
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.pdb
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\FinishProject.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\מרים לימודים\NETCORE\FinishProject\FinishProject.Data\obj\Debug\net7.0\ref\FinishProject.Data.dll

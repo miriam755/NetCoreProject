@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nb2my9fFfuoGwQTBO/vDBsr0appqyJcOxp0xWNLZJufi3GbHHNpYRqO6+m7AqRDGrCRZAfmBwFhzj0Qz6NAhbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\מרים לימודים\\NETCORE\\FinishProject\\FinishProject.Core\\FinishProject.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
