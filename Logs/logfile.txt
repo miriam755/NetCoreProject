@@ -1768,3 +1768,15 @@ RolesAuthorizationRequirement:User.IsInRole must be true for one of the followin
 2025-03-26 01:40:40.8180 DebugAttempting to validate the bound parameter 'employee' of type 'FinishProject.API.Models.EmployeePostModel' ...
 2025-03-26 01:40:40.8384 DebugDone attempting to validate the bound parameter 'employee' of type 'FinishProject.API.Models.EmployeePostModel'.
 2025-03-26 01:40:40.9062 InfoExecuting action method FinishProject.API.Controllers.EmployeeController.CreateEmployeeAsync (FinishProject.API) - Validation state: Valid
+2025-03-26 01:40:51.1019 InfoExecuted action method FinishProject.API.Controllers.EmployeeController.CreateEmployeeAsync (FinishProject.API), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 10190.9724ms.
+2025-03-26 01:40:51.1019 DebugList of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2025-03-26 01:40:51.1019 DebugNo information found on request to perform content negotiation.
+2025-03-26 01:40:51.1019 DebugAttempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2025-03-26 01:40:51.1019 DebugAttempting to select the first formatter in the output formatters list which can write the result.
+2025-03-26 01:40:51.1019 DebugSelected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2025-03-26 01:40:51.1019 InfoExecuting CreatedAtActionResult, writing value of type 'FinishProject.Core.Models.Employee'.
+2025-03-26 01:40:51.1681 DebugNo endpoints found for address (id=[9],action=[GetEmployeeAsync],controller=[Employee])
+2025-03-26 01:40:51.1866 InfoExecuted action FinishProject.API.Controllers.EmployeeController.CreateEmployeeAsync (FinishProject.API) in 10770.489ms
+2025-03-26 01:40:51.1866 InfoExecuted endpoint 'FinishProject.API.Controllers.EmployeeController.CreateEmployeeAsync (FinishProject.API)'
+2025-03-26 01:40:51.3143 ErrorAn unhandled exception has occurred while executing the request.
+2025-03-26 01:40:51.3721 InfoRequest finished HTTP/2 POST https://localhost:7025/api/Employee application/json 109 - 500 - text/plain;+charset=utf-8 11121.8577ms

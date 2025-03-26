@@ -11,6 +11,7 @@ namespace FinishProject.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize (Policy="AdminOnly")]
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
@@ -62,7 +63,8 @@ namespace FinishProject.API.Controllers
             if (employee == null)
                 return BadRequest("Invalid employee data");
 
-            
+            try
+            {
                 var employeeToAdd = new Employee
                 {
                     Tz = employee.Tz,
@@ -74,9 +76,11 @@ namespace FinishProject.API.Controllers
                 var newEmployee = await _employeeService.AddAsync(employeeToAdd);
                 return CreatedAtAction(nameof(GetEmployeeAsync), new { id = newEmployee.Id }, newEmployee);
             }
-         
-                
-        
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Internal server error: " + ex.Message);
+            }
+        }
 
         // PUT api/<EmployeeController>/5
         [HttpPut("{id}")]
